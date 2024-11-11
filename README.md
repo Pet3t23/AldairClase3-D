@@ -1,1 +1,1 @@
-# Aldair-3D-graf-master-master
+"Repositorio para el curso de Gráficas Computacionales 3D, implementado en C++ y utilizando SFML como biblioteca para las representaciones gráficas. El proyecto incluye la creación de escenarios 3D, manipulación de objetos y técnicas avanzadas de renderizado para simular entornos gráficos interactivos."
